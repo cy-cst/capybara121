@@ -1,27 +1,17 @@
 # capybara121
 ### Hi there 👋
 
-<!--
-**miracle0609/miracle0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 统计git操作
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cy-cst&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+# 统计语言
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cy-cst&layout=compact)](https://github.com/cy-cst/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 你好，我是 miracle0609
-
-#### github基础统计信息
-<a href="https://github.com/cy-cst">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miracle0609&count_private=true&show_icons=true&theme=radical" />
+# 展示仓库，通过此方式解除github首页 pin数量的限制
+<a href="https://github.com/cy-cst/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cy-cst&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cy-cst&repo=convoychat" />
 </a>
 
-<a href="https://github.com/miracle0609">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracle0609&layout=compact" />
-</a>
